@@ -1,0 +1,264 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+/*custom fonts*/
+@font-face {
+ font-family: pacifico;
+ src: url("Pacifico.eot") /* EOT file for IE */
+}
+@font-face {
+ font-family: pacifico;
+ src: url("Pacifico.ttf") /* TTF file for CSS3 browsers */
+}
+
+@font-face {
+ font-family: bebas;
+ src: url("bebas.eot") /* EOT file for IE */
+}
+@font-face {
+ font-family: bebas;
+ src: url("bebas.TTF") /* TTF file for CSS3 browsers */
+}
+/*end custom fonts*/
+
+#background1 {
+}
+
+.wrapper {
+	width: 70%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.logo {
+	font-family: pacifico;
+	float: left;
+	vertical-align: center;
+	color: #464646;
+}
+
+.menu ul{
+	list-style: none;
+	float: right;
+}
+
+.menu ul li span{
+	display: block;
+	font-size: 18px;
+	color: black;
+}
+
+.menu ul li{
+	display: inline-block;
+	font-family: bebas;
+	color: #bdbdbd;
+	padding: 20px;
+}
+
+.img1 {
+width: ;
+height: 540px;
+}
+
+.featurebg {
+position: relative;
+top: -78px;
+box-sizing: border-box;
+
+	
+
+
+
+    
+}
+
+.featuretx{
+	position: relative;
+	top: -170px;
+	left: 10px;
+	box-sizing: border-box;
+
+	margin: 0;
+	padding: 0;
+}
+
+.featuretx h4{
+	color: #828282;
+	font-family: bebas;
+	box-sizing: border-box;
+
+   
+}
+.featuretx h4 span{
+position: relative;
+top: 5px;
+}
+.featuretx h1{
+	
+	font-family: bebas;
+	font-size: 27px;
+	font-weight: 100;
+	box-sizing: border-box;
+}
+.featuretx h1 span{
+	color: white;
+	position: relative;
+	top: -20px;
+	box-sizing: border-box;
+}
+
+.about_slider {
+	background-color: #f6f6f6;
+	
+	color: #464646;
+	box-sizing: border-box;
+}
+
+.about_slider h3{
+font-family: bebas;
+font-weight:  100;
+box-sizing: border-box;
+
+}
+
+.about_slider p{
+font-family: helvetica;
+font-size: 13px;
+}
+.projects {
+	width: 100%;
+	
+}
+
+.project {
+	width: 31%;
+	display: inline-block;
+	padding: 10px;
+	vertical-align: top;
+}
+
+.projectTitle {
+	overflow: hidden;
+}
+
+.proicon {
+	width: 20%;
+	float: left;
+	margin-top: 30px;
+}
+
+.protitle {
+	font-family: bebas;
+	font-weight: 100;
+	float: right;
+	width: 75%;
+	color: #464646;
+}
+
+.description {
+	font-family: helvetica;
+	color: #8d8d8d;
+}
+
+.more .icon4 {
+width: 4%;
+float: left;
+margin-top: 7px;
+}
+.more h5 span{color: #464646;
+	float: right;
+	width: 93%;
+	font-family: bebas;
+	font-weight: 100;
+}
+.icon4 {
+}
+
+.background {
+	overflow: hidden;
+}
+.background #background1{
+	float: left;
+	width: 35%;
+	position: relative;
+	top: 5px;
+}
+.background #background2{
+	float: right;
+	width: 35%;
+		position: relative;
+	top: 5px;
+}
+.background h2 span{
+	font-family: bebas;
+	color: #464646;
+	position: relative;
+	top: -25px;
+	left: 385px;
+	font-weight: 100;
+	width: 25%;
+
+}
+
+
+.works {
+	width: 100%;
+}
+
+.work {
+	width: 23%;
+	display: inline-block;
+	padding: 9px;
+	vertical-align: top;
+}
+
+.work h3{
+	font-family: bebas;
+	font-weight: 100;
+	color: #464646;
+}
+
+.work p{
+	font-family: helvetica;
+	color: #8d8d8d;
+}
+
+
+.footer{
+	background-image: url("footer.png");
+	overflow: hidden;
+	font-family: sans-serif;
+	color: #8d8d8d;
+	vertical-align: center;
+	font-size: 12px;
+	font-weight: 500;
+
+}
+
+#background3{
+	margin: 0;
+	padding: 0;
+}
+
+
+.lfooter {
+	float: left;
+	text-align: left;
+	margin-top: 5px;
+}
+
+.rfooter {
+	float: right;
+	margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
