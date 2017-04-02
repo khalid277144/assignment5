@@ -1,6 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
+	box-sizing: border-box;
 }
 /*custom fonts*/
 @font-face {
@@ -29,6 +30,7 @@ body{
 	width: 70%;
 	margin: 0 auto;
 	overflow: hidden;
+	box-sizing: border-box;
 }
 
 .logo {
@@ -36,17 +38,20 @@ body{
 	float: left;
 	vertical-align: center;
 	color: #464646;
+	box-sizing: border-box;
 }
 
 .menu ul{
 	list-style: none;
 	float: right;
+	box-sizing: border-box;
 }
 
 .menu ul li span{
 	display: block;
 	font-size: 18px;
 	color: black;
+	box-sizing: border-box;
 }
 
 .menu ul li{
@@ -54,11 +59,13 @@ body{
 	font-family: bebas;
 	color: #bdbdbd;
 	padding: 20px;
+	box-sizing: border-box;
 }
 
 .img1 {
 width: ;
 height: 540px;
+box-sizing: border-box;
 }
 
 .featurebg {
@@ -93,6 +100,7 @@ box-sizing: border-box;
 .featuretx h4 span{
 position: relative;
 top: 5px;
+box-sizing: border-box;
 }
 .featuretx h1{
 	
@@ -125,9 +133,11 @@ box-sizing: border-box;
 .about_slider p{
 font-family: helvetica;
 font-size: 13px;
+box-sizing: border-box;
 }
 .projects {
 	width: 100%;
+	box-sizing: border-box;
 	
 }
 
@@ -136,16 +146,19 @@ font-size: 13px;
 	display: inline-block;
 	padding: 10px;
 	vertical-align: top;
+	box-sizing: border-box;
 }
 
 .projectTitle {
 	overflow: hidden;
+	box-sizing: border-box;
 }
 
 .proicon {
 	width: 20%;
 	float: left;
 	margin-top: 30px;
+	box-sizing: border-box;
 }
 
 .protitle {
@@ -154,41 +167,47 @@ font-size: 13px;
 	float: right;
 	width: 75%;
 	color: #464646;
+	box-sizing: border-box;
 }
 
 .description {
 	font-family: helvetica;
 	color: #8d8d8d;
+	box-sizing: border-box;
 }
 
 .more .icon4 {
 width: 4%;
 float: left;
 margin-top: 7px;
+box-sizing: border-box;
 }
 .more h5 span{color: #464646;
 	float: right;
 	width: 93%;
 	font-family: bebas;
 	font-weight: 100;
+	box-sizing: border-box;
 }
 .icon4 {
 }
 
 .background {
 	overflow: hidden;
+	box-sizing: border-box;
 }
 .background #background1{
 	float: left;
 	width: 35%;
 	position: relative;
-	top: 5px;
+	top: 5px;box-sizing: border-box;
 }
 .background #background2{
 	float: right;
 	width: 35%;
 		position: relative;
 	top: 5px;
+	box-sizing: border-box;
 }
 .background h2 span{
 	font-family: bebas;
@@ -196,6 +215,7 @@ margin-top: 7px;
 	position: relative;
 	top: -25px;
 	left: 385px;
+	box-sizing: border-box;
 	font-weight: 100;
 	width: 25%;
 
@@ -204,6 +224,7 @@ margin-top: 7px;
 
 .works {
 	width: 100%;
+	box-sizing: border-box;
 }
 
 .work {
@@ -211,17 +232,20 @@ margin-top: 7px;
 	display: inline-block;
 	padding: 9px;
 	vertical-align: top;
+	box-sizing: border-box;
 }
 
 .work h3{
 	font-family: bebas;
 	font-weight: 100;
 	color: #464646;
+	box-sizing: border-box;
 }
 
 .work p{
 	font-family: helvetica;
 	color: #8d8d8d;
+	box-sizing: border-box;
 }
 
 
@@ -233,12 +257,14 @@ margin-top: 7px;
 	vertical-align: center;
 	font-size: 12px;
 	font-weight: 500;
+	box-sizing: border-box;
 
 }
 
 #background3{
 	margin: 0;
 	padding: 0;
+	box-sizing: border-box;
 }
 
 
@@ -246,20 +272,32 @@ margin-top: 7px;
 	float: left;
 	text-align: left;
 	margin-top: 5px;
+	box-sizing: border-box;
 }
 
 .rfooter {
 	float: right;
 	margin-top: 20px;
+	box-sizing: border-box;
 
+}
+
+.lfooter span {
+	
+	font-weight:bolder;
+    color:#000000;
 }
 
 
 .rfooter span {
 	
-	font-weight:bolder
-        color:#00BFBA;
+	font-weight:bolder;
+    color:#000000;
 }
+
+
+
+
 
 
 
